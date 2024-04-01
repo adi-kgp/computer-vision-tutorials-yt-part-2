@@ -1,0 +1,5 @@
+opencv
+matplotlib
+numpy
+
+# conda env name: yolov3-opencv
