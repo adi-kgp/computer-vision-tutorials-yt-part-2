@@ -161,3 +161,5 @@ cython_debug/
 
 # model weights
 **/model/weights
+
+**/sam_vit_b_01ec64.pth
